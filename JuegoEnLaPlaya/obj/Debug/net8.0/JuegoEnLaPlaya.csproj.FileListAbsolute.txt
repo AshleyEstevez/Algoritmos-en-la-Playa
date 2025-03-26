@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\JuegoEnLaPlaya\bin\Debug\net8.0\JuegoEnLaPlaya.exe
+C:\Users\PC\Desktop\JuegoEnLaPlaya\bin\Debug\net8.0\JuegoEnLaPlaya.deps.json
+C:\Users\PC\Desktop\JuegoEnLaPlaya\bin\Debug\net8.0\JuegoEnLaPlaya.runtimeconfig.json
+C:\Users\PC\Desktop\JuegoEnLaPlaya\bin\Debug\net8.0\JuegoEnLaPlaya.dll
+C:\Users\PC\Desktop\JuegoEnLaPlaya\bin\Debug\net8.0\JuegoEnLaPlaya.pdb
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.AssemblyInfo.cs
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.dll
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\refint\JuegoEnLaPlaya.dll
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.pdb
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\JuegoEnLaPlaya.genruntimeconfig.cache
+C:\Users\PC\Desktop\JuegoEnLaPlaya\obj\Debug\net8.0\ref\JuegoEnLaPlaya.dll
